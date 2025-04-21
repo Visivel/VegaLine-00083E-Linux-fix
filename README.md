@@ -1,6 +1,6 @@
 <h1 align="center">Vegaline v083 Platinum Edition</h1>
 
-**Trillium INC | https://discord.gg/vzXzFpv2gk**
+**Trillium INC | N/A**
 
 **Download: https://workupload.com/file/raLMH9K5b8A** <br/>
 *Download on Workupload because this client is like 600Mb and GitHub is A$$*
