@@ -24,4 +24,4 @@
 
 # GUI (Bind: AltGr)
 
-![image](https://github.com/WalmartSolutions/VegaLine-000823/blob/main/gui.png?raw=true)
+![image](https://github.com/WalmartSolutions/VegaLine-00083E/blob/main/gui.png?raw=true)
