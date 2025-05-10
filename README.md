@@ -22,6 +22,8 @@
 - [3000IQPlay](https://github.com/3000IQPlay) - Cracking.
 - ??? - Jar.
 
-# GUI (Bind: AltGr)
+# GUI and proof it works (Bind: AltGr)
 
 ![image](https://github.com/WalmartSolutions/VegaLine-00083E/blob/main/gui.png?raw=true)
+![image](https://github.com/Visivel/VegaLine-00083E-Linux-fix/blob/main/vegaline.png?raw=true)
+
